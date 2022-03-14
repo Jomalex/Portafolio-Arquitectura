@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Visualizador PDF</title>
+</head>
+<body>
+    <h1 class="title">Visualizador de PDF</h1>
+    <object class="pdfview" type="application/pdf" data="file:///C:/Users/toshiba/Desktop/Carpeta%20PORTAFOLIO/Carpeta%20Portafolio%20Arquitectura%202022/Portafolio%20Arquitectura_2022.pdf"></object>
+</body>
+</html>
